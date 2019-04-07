@@ -44,5 +44,5 @@ java -jar googleme.jar some_test -s bing
 ### Search with bing.com and get 4 results:
 
 ```sh
-java -jar googleme.jar some_search_string -r 4 -s bing
+java -jar googleme.jar some_test -r 4 -s bing
 ```
