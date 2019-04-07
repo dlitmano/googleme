@@ -32,13 +32,13 @@ Options category 'startup':
 ### More results:
 
 ```sh
-java -jar googleme.jar some_search_string -r 5
+java -jar googleme.jar some_test -r 5
 ```
 
 ### Search with bing.com:
 
 ```sh
-java -jar googleme.jar some_search_string -s bing
+java -jar googleme.jar some_test -s bing
 ```
 
 ### Search with bing.com and get 4 results:
