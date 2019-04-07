@@ -27,19 +27,22 @@ Options category 'startup':
     Definition of the search engine. Available search engines are google and
     bing.
     
-## Exmaples
+## Examples
 
-###More resulst:
+### More results:
+
 ```sh
 java -jar googleme.jar some_search_string -r 5
 ```
 
-###Search with bing.com:
+### Search with bing.com:
+
 ```sh
 java -jar googleme.jar some_search_string -s bing
 ```
 
-###Search with bing.com and get 4 results
+### Search with bing.com and get 4 results:
+
 ```sh
 java -jar googleme.jar some_search_string -r 4 -s bing
 ```
